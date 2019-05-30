@@ -4,3 +4,5 @@ import MQTT
 import machine
 
 print('***********')
+print('************')
+print('*************')
